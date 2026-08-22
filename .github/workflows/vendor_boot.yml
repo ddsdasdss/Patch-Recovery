@@ -9,7 +9,7 @@ on:
         default: 'https://files.catbox.moe/(RECOMMENDED)'
 
 permissions:
-  contents:write
+  contents: write
 
 jobs:
   build:
